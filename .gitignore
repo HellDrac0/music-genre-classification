@@ -1,0 +1,22 @@
+# Audio dataset and temporary processing files
+fma_small/
+fma_metadata/
+fma_small.zip
+fma_metadata.zip
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+*.aac
+*.npy
+
+# Runtime and notebook cache
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.env
+.DS_Store
+
+# Do not commit Colab's whole working project folder by accident
+/content/

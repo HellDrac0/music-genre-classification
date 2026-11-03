@@ -1,0 +1,4 @@
+tensorflow>=2.16,<2.21
+librosa==0.10.2.post1
+numpy>=1.26,<2.0
+gradio>=6.0,<7.0
