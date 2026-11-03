@@ -1,0 +1,18 @@
+{
+  "genres": [
+    "Electronic",
+    "Hip-Hop",
+    "Pop",
+    "Rock"
+  ],
+  "sample_rate": 22050,
+  "duration_seconds": 30,
+  "n_fft": 2048,
+  "hop_length": 512,
+  "n_mels": 128,
+  "spectrogram_shape": [
+    128,
+    1292
+  ],
+  "pop_logit_bias": 0.25
+}
